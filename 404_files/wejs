@@ -1,0 +1,1 @@
+(function(t,r,i,p){i=t.createElement(r);i.src="https://www.tripadvisor.fr/WidgetEmbed-cdsratingsonlynarrow?border=false&backgroundColor=white&locationId=8554736&display_version=2&uniq=785&lang=fr";i.async=true;p=t.getElementsByTagName(r)[0];p.parentNode.insertBefore(i,p)})(document,"script");
